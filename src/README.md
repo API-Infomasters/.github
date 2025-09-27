@@ -1,5 +1,5 @@
 
-![Logo Fatec](assets/logo_fatec.jpg) | ![DB Foto](assets/db_foto.jpeg)
+![Logo Fatec](assets/logo_fatec.jpg)
  
 # Infomasters 🖥️👨‍💻
 
