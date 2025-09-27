@@ -1,8 +1,5 @@
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="assets/logo_fatec.jpg" width="400" height="400">
-    <img src="assets/db_foto.jpeg" width="400" height="400">
-</div>
+![Logo Fatec](assets/logo_fatec.jpg) | ![DB Foto](assets/db_foto.jpeg)
  
 # Infomasters 🖥️👨‍💻
 
