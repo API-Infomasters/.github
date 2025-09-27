@@ -1,5 +1,8 @@
 
-<img src="../assets/logo_fatec.jpg" alt="Logo Fatec" width="200" height="150" />     <img src="../assets/db_foto.jpeg" alt="Logo Banco de dados" width="150" height="200">
+<div style="display: flex; justify-content: space-around;">
+    <img src="../assets/logo_fatec_1.jpg" width="200" height="150" style="margin-right: 20px;" />
+    <img src="../assets/db_foto"  width="200" height="150"/>
+</div>
  
 # Infomasters 🖥️👨‍💻
 
