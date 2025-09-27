@@ -1,5 +1,5 @@
 
-![Logo Fatec](assets/logo_fatec.jpg)
+![Logo Fatec](../assets/logo_fatec.jpg)
  
 # Infomasters 🖥️👨‍💻
 
