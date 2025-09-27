@@ -1,10 +1,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="logo_fatec.jpg" width="400" height="400">
-    <img src="db_foto.jpeg" width="400" height="400">
+    <img src="assets/logo_fatec.jpg" width="400" height="400">
+    <img src="assets/db_foto.jpeg" width="400" height="400">
 </div>
  
-
 # Infomasters 🖥️👨‍💻
 
 Bem vindo à nossa organização!!!
