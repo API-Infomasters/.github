@@ -1,5 +1,5 @@
 
-![Logo Fatec](../assets/logo_fatec.jpg)
+<img src="../assets/logo_fatec.jpg" alt="Logo Fatec" width="200" height="150" />     <img src="../assets/db_foto.jpeg" alt="Logo Banco de dados" width="150" height="200">
  
 # Infomasters 🖥️👨‍💻
 
