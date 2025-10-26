@@ -18,7 +18,6 @@ Em nossos repositórios, você irá encontrar nossos projetos semestrais com des
 
 - Maria Clara Farkas
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_clarapradx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-farkas-6a6b4534a)
 [![Email](https://img.shields.io/badge/-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.farkas@fatec.sp.gov.br)
 
@@ -26,7 +25,6 @@ Em nossos repositórios, você irá encontrar nossos projetos semestrais com des
 
 - Luis Gustavo Graciano 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gracianoluiss)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavogracianomanutencaoaeronautica)
 [![Email](https://img.shields.io/badge/-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.silva202@fatec.sp.gov.br)
 
@@ -34,13 +32,11 @@ Em nossos repositórios, você irá encontrar nossos projetos semestrais com des
 
 - Igor Ruiz
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruiz_ig77)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-ruiz-a56a1b30b)
 [![Email](https://img.shields.io/badge/-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.ruiz@fatec.sp.gov.br)
 
 - Breno Cefas
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cefasbreno)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-cefas-7aa909271)
 [![Email](https://img.shields.io/badge/-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Breno.santos32@fatec.sp.gov.br)
 
@@ -51,7 +47,6 @@ Em nossos repositórios, você irá encontrar nossos projetos semestrais com des
 
 - João Medeiros
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvctrmd)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvmedeiros)
 [![Email](https://img.shields.io/badge/-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.gallina@fatec.sp.gov.br)
 
